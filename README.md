@@ -2,8 +2,7 @@
 Modal Bottom Sheet - Share Images
 
 ### Screenshot1
-![](AppImage.jpg |width=100)
-<img src=AppImage.jpg>
+<img src=AppImage.jpg width="200" height="400">
 
 ### Screenshot 2
 ![](MobileSharingModalBottomSheet.jpg)
